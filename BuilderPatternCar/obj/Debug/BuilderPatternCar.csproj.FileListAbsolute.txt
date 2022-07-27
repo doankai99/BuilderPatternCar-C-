@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\BuilderPatternCar\BuilderPatternCar\bin\Debug\BuilderPatternCar.exe.config
+C:\Users\ADMIN\source\repos\BuilderPatternCar\BuilderPatternCar\bin\Debug\BuilderPatternCar.exe
+C:\Users\ADMIN\source\repos\BuilderPatternCar\BuilderPatternCar\bin\Debug\BuilderPatternCar.pdb
+C:\Users\ADMIN\source\repos\BuilderPatternCar\BuilderPatternCar\obj\Debug\BuilderPatternCar.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BuilderPatternCar\BuilderPatternCar\obj\Debug\BuilderPatternCar.exe
+C:\Users\ADMIN\source\repos\BuilderPatternCar\BuilderPatternCar\obj\Debug\BuilderPatternCar.pdb
+C:\Users\ADMIN\source\repos\BuilderPatternCar\BuilderPatternCar\obj\Debug\BuilderPatternCar.csprojAssemblyReference.cache
